@@ -6,7 +6,7 @@ Allow: *.css
 Allow: *.js
 
 # Sitemap location
-Sitemap: https://handmadeluminaries.com/sitemap.xml
+Sitemap: https://affiliatevisiontoday.github.io/handmadewalkingsticks/sitemap.xml
 
 # Crawl delay (optional - removes if causing issues)
 Crawl-delay: 1
