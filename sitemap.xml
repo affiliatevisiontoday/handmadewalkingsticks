@@ -10,57 +10,71 @@
     <priority>1.0</priority>
 
     <image:image>
-      <image:loc>https://www.dropbox.com/scl/fi/s4qtjmfa8fnzwjhtb4q8t/hero-sec-HL-Photoroom.jpg?raw=1</image:loc>
-      <image:title>Premium Handcrafted Walking Sticks and Lighting Solutions</image:title>
-      <image:caption>Hero image showcasing handmade walking sticks and lighting products</image:caption>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/hero%20sec%20-%20HL.jpg</image:loc>
+      <image:title>Hero Banner – Handmade Luminaries</image:title>
+      <image:caption>Premium handcrafted walking sticks and lighting</image:caption>
     </image:image>
 
     <image:image>
-      <image:loc>https://www.dropbox.com/scl/fi/utdjrbjds8lmwvzxxa10o/Ebay-Banner-Handmade-Luminaries-Official.jpg?raw=1</image:loc>
-      <image:title>Handmade Luminaries Official eBay Banner</image:title>
-      <image:caption>Official banner for Handmade Luminaries eBay store</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.dropbox.com/scl/fi/lrziqp42kv08tham6su3m/wooden-walking-sticks-with-different-animal-brass-handles.jpg?raw=1</image:loc>
-      <image:title>Classic Premium Walking Sticks with Animal Brass Handles</image:title>
-      <image:caption>Collection of wooden walking sticks featuring different animal-themed brass handles</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.dropbox.com/scl/fi/7oj2uz7hvln6u1mh0nn6c/premium-looking-wooden-walking-sticks.jpg?raw=1</image:loc>
-      <image:title>Premium Walking Staffs Collection</image:title>
-      <image:caption>Elegant wooden walking staffs designed for comfort and durability</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.dropbox.com/scl/fi/l0wxwny3n7h0xn6vohnqp/Walking-Stick-Accessories-Photoroom.jpg?raw=1</image:loc>
-      <image:title>Walking Stick Accessories and Parts</image:title>
-      <image:caption>Complete selection of walking stick accessories including ferrules, handles, and replacement parts</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.dropbox.com/scl/fi/witkz3ucaq8mrsj15ciaz/A-stylish-handcrafted-wall-mounted-light-fixture-installed-on-a-textured-wall.jpg?raw=1</image:loc>
-      <image:title>Handcrafted Wall Mounted Light Fixture</image:title>
-      <image:caption>Stylish wall-mounted lighting solution with warm ambient lighting</image:caption>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/eBay%20HL%20Banner.jpg</image:loc>
+      <image:title>Official eBay Store Banner</image:title>
+      <image:caption>Handmade Luminaries official banner used on eBay</image:caption>
     </image:image>
   </url>
 
-  <!-- Section-specific anchors -->
+  <!-- About Section -->
   <url>
     <loc>https://affiliatevisiontoday.github.io/handmadewalkingsticks/#about</loc>
     <lastmod>2025-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/about-us.jpg</image:loc>
+      <image:title>About Us – Artisan Crafting</image:title>
+      <image:caption>Close-up of artisan hands working on a brass-handled walking stick</image:caption>
+    </image:image>
   </url>
 
+  <!-- Products Section -->
   <url>
     <loc>https://affiliatevisiontoday.github.io/handmadewalkingsticks/#products</loc>
     <lastmod>2025-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/premium%20canes.jpg</image:loc>
+      <image:title>Classic Premium Walking Sticks</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/classic%20canes.jpg</image:loc>
+      <image:title>Premium Walking Staffs</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/walking%20sticks%20acc.jpg</image:loc>
+      <image:title>Walking Stick Accessories</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/light.jpg</image:loc>
+      <image:title>Wall Lights</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/oil%20lamp.jpg</image:loc>
+      <image:title>Lamp Lights</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/affiliatevisiontoday/handmadewalkingsticks/refs/heads/main/Assets/desk%20oragnizer.jpg</image:loc>
+      <image:title>Desk Decor</image:title>
+    </image:image>
   </url>
 
+  <!-- Testimonials Section -->
   <url>
     <loc>https://affiliatevisiontoday.github.io/handmadewalkingsticks/#testimonials</loc>
     <lastmod>2025-05-25</lastmod>
@@ -68,6 +82,7 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Contact Section -->
   <url>
     <loc>https://affiliatevisiontoday.github.io/handmadewalkingsticks/#contact</loc>
     <lastmod>2025-05-25</lastmod>
